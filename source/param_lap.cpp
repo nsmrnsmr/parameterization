@@ -154,8 +154,8 @@ int main(int arg, char *fname[]){
     else printf("%4d\n", out);
   };
   cout << v_num <<"\n";*/
-//Tuttle埋め込み  //////////////////////////////////////////////////////////
-  printf("Tuttle埋め込み\n");
+//メッシュのパラメータ化 //////////////////////////////////////////////////////////
+  printf("メッシュのパラメータ化\n");
   MatrixXd laplacian(v_num, v_num); laplacian = MatrixXd::Zero(v_num, v_num);
   VectorXd bx(v_num); bx = VectorXd::Zero(v_num);
   VectorXd by(v_num); by = VectorXd::Zero(v_num);
