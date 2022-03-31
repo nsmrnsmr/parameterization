@@ -11,7 +11,7 @@
   <img src="image/model00.png" width="600" />
   <img src="image/mv00.png" width="600">
 
-  <em>元となるメッシュ（上），円盤に移した結果（下）</em> 
+  <em>元となるメッシュ（上），円盤に写した結果（下）</em> 
 </p>
 
 現在３種類：
