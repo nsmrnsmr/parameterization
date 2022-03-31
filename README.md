@@ -8,7 +8,7 @@
 出力：　円盤に移した結果（off形式）
 
 <p>
-  <img src="image/model00.png" width="300"> <img src="image/mv00.png" width="300">
+  <img src="image/model00.png" width="350"> <img src="image/mv00.png" width="350">
 
   <em>元となるメッシュ（左），円盤に移した結果（右）</em> 
 </p>
