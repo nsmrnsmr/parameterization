@@ -1,4 +1,8 @@
-//平面パラメータ化
+/*平面パラメータ化
+  実行までの例（Eigenのパスは自身のパスを指定してください）
+  g++ param_lap.cpp -o param_lap -std=c++17 -I /usr/local/.../include/eigen3
+  ./param_lap sample.off
+*/
 # include<iostream>
 # include<cmath>
 # include<cstdio>
