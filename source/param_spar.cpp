@@ -1,4 +1,8 @@
-//平面パラメータ化 Tuttle埋め込み
+/*平面パラメータ化 Tuttle埋め込み
+  実行までの例（Eigenのパスは自身のパスを指定してください）
+  g++ param_spar.cpp -o param_spar -std=c++17 -I /usr/local/.../include/eigen3
+  ./param_spar sample.off
+*/
 # include<iostream>
 # include<cmath>
 # include<cstdio>
