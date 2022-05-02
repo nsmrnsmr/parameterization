@@ -7,7 +7,7 @@
 
 出力：　円盤に移した結果（off形式）
 
-実行例
+実行方法例
 ```
 g++ param_lap.cpp -o param_lap -std=c++17 -I /usr/local/.../include/eigen3
 ./param_lap ../data/77.off
