@@ -10,7 +10,7 @@
 実行例
 ```
 g++ param_lap.cpp -o param_lap -std=c++17 -I /usr/local/.../include/eigen3
-  ./param_lap sample.off
+./param_lap ../data/77.off
 ```
 <p>
   <img src="image/model001.png" width="600" />
